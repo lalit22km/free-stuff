@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Free Stuff !</title>
-    <link>https://free.lxlit.dev/</link>
+    <link>https://lalit22km.github.io/free-stuff/</link>
     <description>Recent content on Free Stuff !</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://free.lxlit.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lalit22km.github.io/free-stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://free.lxlit.dev/about/</link>
+      <link>https://lalit22km.github.io/free-stuff/about/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://free.lxlit.dev/about/</guid>
+      <guid>https://lalit22km.github.io/free-stuff/about/</guid>
       <description>I do not host any of the content myself nor do I have any affiliation with the websites mentioned on this free.lxlit.dev&#xA;I do not get paid, or make any kind of monetory gain from this website either.&#xA;Enjoy sailing the high seas. ;)&#xA;This is an update.</description>
     </item>
     <item>
       <title>Testing Update</title>
-      <link>https://free.lxlit.dev/post/games/</link>
+      <link>https://lalit22km.github.io/free-stuff/post/games/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://free.lxlit.dev/post/games/</guid>
+      <guid>https://lalit22km.github.io/free-stuff/post/games/</guid>
       <description>&lt;p&gt;Featured image is the image that appears on summaries at the list pages and the top of content pages. Every content page&#xA;in this theme can have a featured image.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing Update</title>
-      <link>https://free.lxlit.dev/post/movies/</link>
+      <link>https://lalit22km.github.io/free-stuff/post/movies/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://free.lxlit.dev/post/movies/</guid>
+      <guid>https://lalit22km.github.io/free-stuff/post/movies/</guid>
       <description>&lt;p&gt;Featured image is the image that appears on summaries at the list pages and the top of content pages. Every content page&#xA;in this theme can have a featured image.&lt;/p&gt;</description>
     </item>
   </channel>
