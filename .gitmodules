@@ -1,0 +1,6 @@
+[submodule "themes/glim-midnight"]
+	path = themes/glim-midnight
+	url = https://github.com/mansoorbarri/glim-midnight.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/vimux/binario

@@ -1,0 +1,9 @@
+baseURL = "https://free.lxlit.dev/"
+title = "Free Stuff !"
+languageCode = "en-us"
+paginate = 10
+theme = "binario"
+
+[Params]
+  description = "Free stuff ! Heck Yeah !"
+  columns = 2
