@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Free Stuff !</title>
+    <link>https://free.lxlit.dev/post/</link>
+    <description>Recent content in Posts on Free Stuff !</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://free.lxlit.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Update</title>
+      <link>https://free.lxlit.dev/post/games/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://free.lxlit.dev/post/games/</guid>
+      <description>&lt;p&gt;Featured image is the image that appears on summaries at the list pages and the top of content pages. Every content page&#xA;in this theme can have a featured image.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Testing Update</title>
+      <link>https://free.lxlit.dev/post/movies/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://free.lxlit.dev/post/movies/</guid>
+      <description>&lt;p&gt;Featured image is the image that appears on summaries at the list pages and the top of content pages. Every content page&#xA;in this theme can have a featured image.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
