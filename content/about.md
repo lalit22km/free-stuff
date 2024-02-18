@@ -11,3 +11,5 @@ I do not host any of the content myself nor do I have any affiliation with the w
 I do not get paid, or make any kind of monetory gain from this website either.
 
 Enjoy sailing the high seas. ;)
+
+This is an update.
