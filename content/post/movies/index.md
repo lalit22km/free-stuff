@@ -1,12 +1,12 @@
 ---
-title: Movies
-description: "This page includes information about various websites to obtain Movies."
+title: Movies & TV
+description: "This page includes information about various websites to obtain Movies & TV Shows."
 date: 2024-02-18 
 ---
 
-This page has many websites related to games. Mostly focusing on PC games.
+This page is all about Movies and TV Shows or Series.
 
-#### **Always use Ad blockers when visiting any website.**
+#### **Always use Ad blockers when visiting any website. Especially websites streaming movies. These are usually filled with ads.**
 ---
 #### **I ABSOLUTELY DO NOT WANT TO HEAR ANY COMPLAINS ABOUT GETTING A VIRUS BECAUSE YOU ARE DUMB AND DO NOT KNOW WHERE TO CLICK.**
 
@@ -14,15 +14,15 @@ Use [UBlockOrigin](https://ublockorigin.com/) or [AdGuard](https://adguard.com).
 
 <!--more-->
 ---
-## Types of Releases 🕹️
+## Types of Websites 🌐
 
-You can download games mainly using 2 methods. **Direct Downloads** (often called DDL) or **Torrents**. Both have their pros and cons and many differences but I usually go with torrents myself because of the following reasons.
+There are 3 main types of websites to find movies and TV Shows. 
 
-1> Torrents are resumable and have no transfer limit.\
-2> Torrents use P2P (Peer-to-Peer) Sharing.\
-3> Direct Downloads are prone to random failures especially with large files or shoddy internet.
+1> Streaming Websites. \
+2> Direct Download websites.\
+3> Torrent download websites.
 
-#### I recommend using **torrents**.
+#### I recommend using **torrents** and **Streaming**.
 
 There are many torrent clients to choose from but you should probably just stick to [**QBittorrent**](https://www.qbittorrent.org/) or [**Transmission**](https://transmissionbt.com/).
 
@@ -30,73 +30,53 @@ There are many torrent clients to choose from but you should probably just stick
 
 ---
 
-## Torrent Websites 🧲
+## Streaming Websites 📺
 
-These are the torrent websites you should be able to find almost any game on. 
+Here is the list of streaming websites. These websites are often taken down. I'll try to keep up with the changes. You can also PR on GitHub or open an issue for me to update.
 
-#### 🔥 [Fitgirl Repacks](https://fitgirl-repacks.site)
+#### 🔥 [123Chill](https://123chill.pics/)
 
-tl;dr: ***✅Small Size, ❌Slow Install***  
+Good website. Almost every new content is available with good servers.
 
-Fitgirl is one of the best source of games. The good thing about FitGirl is the small download sizes. Some games are compressed 2-5x their original size. 
+#### 🔥 [Ask4Movie](https://ask4movie.li/)
 
-I do not use fitgirl anymore because I have fast reliable internet now and the installation time is ***VERY LONG***.
+Ask4Movie is a great website. I've never had any issues with this website and it also has subtitle support.
 
-#### 🔥 [Dodi Repacks](https://dodi-repacks.site)
+#### 🔥 [Binged](https://binged.in/) / [Mirror 1](https://binged.live/) / [Mirror 2](https://binged.lol/)
 
-tl;dr: ***❌Slightly bigger than Fitgirl, ✅Faster Install than Fitgirl***
+I use this for watching series mainly. This has a good episode list format.
 
-Dodi is just like fitgirl except they release a lot more games than FitGirl. Dodi also releases games cracked by Empress (FitGirl doesn't). Dodi's releases are similar or just slightly bigger in size compared to FitGirl but the install times a significantly reduced. I would recommend Dodi if you have slow but unlimited internet. Go with fitgirl if you have limited bandwidth.
+#### 🔥 [Braflix](https://www.braflix.video/)
 
-#### 🔥 [XATab](https://byxatab.com/) 🇷🇺
+Constantly updated movie database is the perfect haven for all you passionate film buffs out there.
 
-tl;dr: ***❌Large repacks, ✅Very fast install speeds***
+#### 🔥 [Cataz](https://cataz.to/)
 
-XATab is a russian release group. Their releases are larger in size but are very fast to install. Make sure to change the language when visiting their website.
+One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.
+
+#### 🔥 [DopeBox](https://dopebox.to/)
+
+Users may watch hundreds of movies and TV series in the highest quality with quick loading times among other advantages
+
+#### 🔥 [DramaCool](https://dramacool.com.pa/)
+
+Chinese, Korean, Hong Kong, Taiwanese, Thiland content. Mainly shows.
+
+#### 🔥 [Faragski](https://faragski.com/)
+
+Exciting opportunity to watch your beloved movies and TV shows without any cost.
+
+#### 🔥 [FlixHQ](https://flixhq.click/home/)
+
+Safest free movie site in 2024 to instantly view movies and television shows online.
 
 ---
 ## DDL Websites ⏬
 
 Now, DDL Websites are good if you have good stable internet. They do not require any kind of special software although you can use [JDownloader2](https://jdownloader.org/jdownloader2). JDownloaded provides many good features such as the ability to resume downloads and safer parallel downloads.
 
-### Old Games 💻
-
-You can download many old games which are not available to buy anywhere making them abandonware. 
-
 #### 🔥 [MyAbandonWare](https://www.myabandonware.com/)
 
 Great website. The downloads are safe and the files are clean. A lot of classic games are available on this.
-
-#### 🔥 [OldGamesDownload](https://oldgamesdownload.com/)
-
-Great simple website. Files are usually hosted on Archive.org or MEGA.
-
-#### 🔥 [Alternative : Archive.org Repository](https://archive.org/details/classicpcgames)
-
-This is something you should visit last only because how throttled the Archive.org servers usually are.
-
-### Modern Games 🎮
-
-These websites are the ones I've tested myself. You can use any of these to download almost any game.
-
-#### 🔥 [GameDrive.Org](https://gamedrive.org/)
-
-My absolute favorite website for DDLs. The downloads are very fast and it's very easy to import it into JDownloader2.
-
-#### 🔥 [G4U](https://g4u.to)
-
-I avoid this website because they use premium hosters. Great if you have access to any Debrid service.
-
-#### 🔥 [GOG-Games](https://www.gog-games.to/)
-
-GOG-Games releases games from the orginial GOG website. The files are untouched because games released on GOG do not require cracks to work.
-
-#### 🔥 [OVAGames](https://www.ovagames.com)
-
-OVAGames is absolutely GOATED. The files are hosted on Google Drive and MediaFire among others.
-
-#### 🔥 [ElAmigos](https://elamigos.site/)
-
-ElAmigos repacks are great if you have fast internet and a lot space. Although I would recommend getting the releases from GameDrive.Org because of hoster issues.
 
 
