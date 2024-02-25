@@ -1,12 +1,12 @@
 ---
-title: Movies & TV
-description: "This page includes information about various websites to obtain Movies & TV Shows."
-date: 2024-02-18 
+title: Anime
+description: "This page includes information about various websites to obtain Anime Content."
+date: 2024-02-25
 ---
 
-This page is all about Movies and TV Shows or Series.
+This page is all about Anime for the weird weebs.
 
-#### **Always use Ad blockers when visiting any website. Especially websites streaming movies. These are usually filled with ads.**
+#### **Always use Ad blockers when visiting any website. Especially streaming websites. These are usually filled with ads.**
 ---
 #### **I ABSOLUTELY DO NOT WANT TO HEAR ANY COMPLAINS ABOUT GETTING A VIRUS BECAUSE YOU ARE DUMB AND DO NOT KNOW WHERE TO CLICK.**
 
@@ -34,45 +34,45 @@ There are many torrent clients to choose from but you should probably just stick
 
 Here is the list of streaming websites. These websites are often taken down. I'll try to keep up with the changes. You can also PR on GitHub or open an issue for me to update.
 
-#### 🔥 [123Chill](https://123chill.pics/)
+#### 🔥 [123anime](https://123anime.info/)
 
-Good website. Almost every new content is available with good servers.
+Easy access to a nice selection of anime. Dependable stream and updates from the most recent releases.
 
-#### 🔥 [Ask4Movie](https://ask4movie.li/)
+#### 🔥 [4anime](https://4anime.gg/)
 
-Ask4Movie is a great website. I've never had any issues with this website and it also has subtitle support.
+Following the closing of the original 4anime, this is incredibly fast reskinned alternative where you can view anime and shows.
 
-#### 🔥 [Binged](https://binged.in/) / [Mirror 1](https://binged.live/) / [Mirror 2](https://binged.lol/)
+#### 🔥 [AllManga/AllAnime](https://allmanga.to/)
 
-I use this for watching series mainly. This has a good episode list format.
+A trustworthy resource, scraping numerous different websites with various options.
 
-#### 🔥 [TheMovieAchrive](https://themoviearchive.site/)
+#### 🔥 [Animania](https://animania.co.uk/)
 
-I love this one. Check it out yourself.
+See and follow thousands of high quality episodes of all the biggest anime series, updated constantly for free.
 
-#### 🔥 [Braflix](https://www.braflix.video/)
+#### 🔥 [AnimeFlix](https://animeflix.live/)
 
-Constantly updated movie database is the perfect haven for all you passionate film buffs out there.
+Really nice site for free anime streaming in English subbed and subbed.
 
-#### 🔥 [Cataz](https://cataz.to/)
+#### 🔥 [AnimeFox](https://animefox.mobi/)
 
-One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.
+Watch anime online free in HD and on mobile devices and all series and films are in very good quality.
 
-#### 🔥 [DopeBox](https://dopebox.to/)
+#### 🔥 [AnimeFrenzy](https://animefrenzy.cc/)
 
-Users may watch hundreds of movies and TV series in the highest quality with quick loading times among other advantages
+Enjoy the best anime streaming service and find your favorite title in our large collection of works.
 
-#### 🔥 [DramaCool](https://dramacool.com.pa/)
+#### 🔥 [AnimeHub](https://animehub.ac/)
 
-Chinese, Korean, Hong Kong, Taiwanese, Thiland content. Mainly shows.
+It is highly recommended not to miss this website where you can watch anime online in high definition.
 
-#### 🔥 [Faragski](https://faragski.com/)
+#### 🔥 [Animension](https://animension.to/)
 
-Exciting opportunity to watch your beloved movies and TV shows without any cost.
+Browse, follow, and share your favorite anime on one website, truly a portal to the world of fun.
 
-#### 🔥 [FlixHQ](https://flixhq.click/home/)
+#### 🔥 [AnimeOwl](https://animeowl.us/)
 
-Safest free movie site in 2024 to instantly view movies and television shows online.
+This website has a sleek Interface, the largest archive of impressive free anime content online.
 
 ---
 ## DDL Websites ⏬
