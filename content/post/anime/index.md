@@ -146,4 +146,4 @@ Here you may find and watch new episodes of your favorite TV shows every day.
 
 A fantastic website dedicated to torrenting movies and TV shows. Simple to use, with constant updates to their catalogue.
 
-UP-UP
+Update: I haven't been feeling well for a few days. I will update this webiste soon. <3
