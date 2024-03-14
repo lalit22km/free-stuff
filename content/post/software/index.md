@@ -6,6 +6,8 @@ date: 2024-02-18
 
 This page has many websites related to software. Mostly focusing on Windows software. I have included a few for MacOS too.
 
+`Pirated softwares use cracks. Cracks are usually detected by your Anti-Virus. The website listed here are safe and tested. I still advice you to take precaution and avoid clicking on ads and fake download buttons on this website. You should also try to manually add each crack file exclusion in Windows Defender or your Anti-Virus. Avoid excluding complete folders and drives.`
+
 #### **Always use Ad blockers when visiting any website.**
 ---
 #### **I ABSOLUTELY DO NOT WANT TO HEAR ANY COMPLAINS ABOUT GETTING A VIRUS BECAUSE YOU ARE DUMB AND DO NOT KNOW WHERE TO CLICK.**
@@ -35,53 +37,69 @@ I love this website. It's in russian and requires a good amount of knowledge but
 
 #### 🔥 [Mac Torrents](https://www.torrentmac.net/)
 
-tl;dr: ***❌Slightly bigger than Fitgirl, ✅Faster Install than Fitgirl***
-
-Dodi is just like fitgirl except they release a lot more games than FitGirl. Dodi also releases games cracked by Empress (FitGirl doesn't). Dodi's releases are similar or just slightly bigger in size compared to FitGirl but the install times a significantly reduced. I would recommend Dodi if you have slow but unlimited internet. Go with fitgirl if you have limited bandwidth.
+Torrents for Mac software. Good website. Has software for both x86 and ARM based Macs.
 
 ---
-## DDL Websites ⏬
+## DDL Websites (Windows) ⏬ 🪟
 
-Now, DDL Websites are good if you have good stable internet. They do not require any kind of special software although you can use [JDownloader2](https://jdownloader.org/jdownloader2). JDownloaded provides many good features such as the ability to resume downloads and safer parallel downloads.
+#### 🔥 [AppDoze](https://appdoze.com/)
 
-### Old Games 💻
+Get your the latest software effortlessly and enjoy a seamless installation process.
 
-You can download many old games which are not available to buy anywhere making them abandonware. 
+#### 🔥 [DIAKOV](https://diakov.net/) 🇷🇺
 
-#### 🔥 [MyAbandonWare](https://www.myabandonware.com/)
+Use Google Translate to translate the webiste.
 
-Great website. The downloads are safe and the files are clean. A lot of classic games are available on this.
+Vast selection of software. Updates every day; always the most recent version. Several options with simple file hosts.
 
-#### 🔥 [OldGamesDownload](https://oldgamesdownload.com/)
+#### 🔥 [LRepacks](https://lrepacks.net/) 🇷🇺
 
-Great simple website. Files are usually hosted on Archive.org or MEGA.
+Good webiste. Russian UI. Translate.
 
-#### 🔥 [Alternative : Archive.org Repository](https://archive.org/details/classicpcgames)
+#### 🔥 [MicroTech](https://programs.themicrotech.net/)
 
-This is something you should visit last only because how throttled the Archive.org servers usually are.
+Aims to simplify access to the files for the most recent versions while continuously improving and staying current with technology.
 
-### Modern Games 🎮
+#### 🔥 [Mutaz](https://www.mutaz.pro/)
 
-These websites are the ones I've tested myself. You can use any of these to download almost any game.
+Provides software downloads for Windows, Mac, and Android devices and does not require registration.
 
-#### 🔥 [GameDrive.Org](https://gamedrive.org/)
+#### 🔥 [SCloud](https://scloud.ws/)
 
-My absolute favorite website for DDLs. The downloads are very fast and it's very easy to import it into JDownloader2.
+Very nice website. Requires signup but the downloads are very fast.
 
-#### 🔥 [G4U](https://g4u.to)
+## DDL Websites (MacOS) ⏬ 🍎
 
-I avoid this website because they use premium hosters. Great if you have access to any Debrid service.
+#### 🔥 [AllMacWorlds](https://allmacworlds.com/)
 
-#### 🔥 [GOG-Games](https://www.gog-games.to/)
+Each piece of software is tested to ensure its functionality, and only the fully operational versions.
 
-GOG-Games releases games from the orginial GOG website. The files are untouched because games released on GOG do not require cracks to work.
+#### 🔥 [AppKed](https://www.macbed.com/)
 
-#### 🔥 [OVAGames](https://www.ovagames.com)
+The URL is not a mistake.
 
-OVAGames is absolutely GOATED. The files are hosted on Google Drive and MediaFire among others.
+It offers the freedom to download any desired application without any charges involved.
 
-#### 🔥 [ElAmigos](https://elamigos.site/)
+#### 🔥 [Appstorrent](https://appstorrent.ru/) 🇷🇺
 
-ElAmigos repacks are great if you have fast internet and a lot space. Although I would recommend getting the releases from GameDrive.Org because of hoster issues.
+Countless apps, games, and plugins available for download. Releases come from various sources.
 
+#### 🔥 [CMacked](https://cmacked.com/)
 
+Best webiste for Mac software. Easy to use. Fast downloads. I consider this my first choice.
+
+#### 🔥 [InsMac](https://insmac.org/)
+
+Array of free software programs and games specifically tailored for users on a Mac.
+
+#### 🔥 [Macintosh Garden](https://macintoshgarden.org/)
+
+Has only old and abandoned software. Good to find for special use cases.
+
+#### 🔥 [MAD](https://www.macappdownload.com/)
+
+Several MacOS apps available covering a wide variety. However, the site uses premium file hosts.
+
+#### 🔥 [NMac](https://nmac.to/now/)
+
+Lots of free apps available for MacOS without limits, or gimmicks. Simply click ahead to get started.
