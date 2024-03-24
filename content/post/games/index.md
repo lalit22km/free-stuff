@@ -87,7 +87,9 @@ My absolute favorite website for DDLs. The downloads are very fast and it's very
 
 I avoid this website because they use premium hosters. Great if you have access to any Debrid service.
 
-#### 🔥 [GOG-Games](https://www.gog-games.to/)
+#### 🔥 [GOG-Games](https://www.gog-games.to/) DEAD
+
+GOG-Games went private. It's invite only now. Sad.
 
 GOG-Games releases games from the orginial GOG website. The files are untouched because games released on GOG do not require cracks to work.
 
